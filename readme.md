@@ -1,8 +1,8 @@
+## Variational autoencoder for language modeling
+
 ## Requirement
 
 pytorch>=1.2
-
-
 
 ## usage
 
